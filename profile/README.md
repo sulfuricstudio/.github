@@ -1,4 +1,8 @@
 ## Hi there 
+We are **Sulfuric Studios**!
+We are a devlopment firm based in Sydney Australia 🇦🇺 
+We are completely LGBT Friendly 🏳️‍🌈🏳️‍⚧️
+
 
 <!--
 
