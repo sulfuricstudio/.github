@@ -1,7 +1,7 @@
-## Hi there 
-We are **Sulfuric Studios**!
-We are a design and development firm based in Sydney Australia 🇦🇺 
-We are completely LGBT Friendly 🏳️‍🌈🏳️‍⚧️
+## Hi there 👋 <br>
+We are **Sulfuric Studios**!<br>
+We are a design and development firm based in Sydney Australia 🇦🇺 <br>
+We are completely LGBT Friendly 🏳️‍🌈🏳️‍⚧️<br>
 
 
 <!--
